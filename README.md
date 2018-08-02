@@ -10,7 +10,7 @@ vstatus is still under active design and not yet ready for mainstream usage.
 
 vstatus aims at the following objectives:
 * be extremely lightweight, self-contained and easy to deploy;
-* be lighting-fast, to avoid slowing down a terminal if used to draw an informative prompt;
+* be lightning-fast, to avoid slowing down a terminal if used to draw an informative prompt;
 * be extensible enough to support multiple VCS (git, mercurial, subversion, fossil, veracity…)
 * be customizable enough to support arbitrary formatting options.
 
