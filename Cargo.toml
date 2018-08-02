@@ -1,0 +1,21 @@
+[package]
+name = "vstatus"
+version = "0.0.1"
+description = "Lightning-fast version control status string generator"
+
+authors = ["Jérémie Roquet <jroquet@arkanosis.net>"]
+
+documentation = "https://github.com/Arkanosis/vstatus"
+homepage = "https://github.com/Arkanosis/vstatus"
+repository = "https://github.com/Arkanosis/vstatus"
+
+readme = "README.md"
+license = "ISC"
+
+keywords = ["vcs", "git", "bash", "zsh", "prompt"]
+categories = ["command-line-utilities"]
+
+[dependencies]
+docopt = "1.0"
+serde = "1.0"
+serde_derive = "1.0"
